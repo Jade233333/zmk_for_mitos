@@ -1,0 +1,11 @@
+file_format: "1"
+id: mitos 
+name: mitos
+type: shield
+url: https://github.com/Jade233333/mitos_keyboard/
+requires: [nice_nano]
+features:
+  - keys
+siblings:
+  - mitos_left
+  - mitos_right
