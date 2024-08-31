@@ -28,7 +28,7 @@
 
         fun {
             bindings = <&mo 1>;
-            key-positions = <31 19>;
+            key-positions = <11 13>;
         };
 
         cga {
