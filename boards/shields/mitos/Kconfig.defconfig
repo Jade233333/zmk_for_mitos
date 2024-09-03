@@ -2,4 +2,4 @@ config SHIELD_MITOS_LEFT
     def_bool $(shields_list_contains,mitos_left)
 
 config SHIELD_MITOS_RIGHT
-    def_bool $(shields_list_containh,mitos_right)
+    def_bool $(shields_list_contains,mitos_right)
